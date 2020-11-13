@@ -1,8 +1,8 @@
 {
-  "name": "particl-insight-ui",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the particl network and build your own services with it.",
+  "name": "rhombus-insight-ui",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the rhombus network and build your own services with it.",
   "version": "0.4.1",
-  "repository": "git://github.com/particl/particl-insight.git",
+  "repository": "git://github.com/rhombus-dev-team/rhombus-insight.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,21 +26,21 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/particl/particl-insight-ui/issues"
+    "url": "https://github.com/rhombus-dev-team/rhombus-insight-ui/issues"
   },
-  "homepage": "https://github.com/particl/particl-insight-ui",
+  "homepage": "https://github.com/rhombus-dev-team/rhombus-insight-ui",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "particl",
+    "rhombus",
     "bitcore",
     "front-end"
   ],
   "bitcoreNode": "bitcore-node",
   "insightConfig": {
-    "apiPrefix": "particl-insight-api",
+    "apiPrefix": "rhombus-insight-api",
     "routePrefix": ""
   },
   "scripts": {

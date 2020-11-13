@@ -1,6 +1,6 @@
 # Insight UI
 
-A Particl blockchain explorer web application service for [Bitcore Node](https://github.com/particl/particl-bitcore-node) using the [Insight API](https://github.com/particl/particl-insight-api).
+A Rhombus blockchain explorer web application service for [Bitcore Node](https://github.com/rhombus/rhombus-bitcore-node) using the [Insight API](https://github.com/rhombus/rhombus-insight-api).
 
 ## Quick Start
 
@@ -88,11 +88,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/particl/particl-insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/particl/particl-insight-api).
+For more details about the [Insight API](https://github.com/rhombus/rhombus-insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/rhombus/rhombus-insight-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/particl/particl-insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/rhombus/rhombus-insight-ui).
 
 
 ## License
@@ -111,7 +111,7 @@ included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+MERCHANTABILITY, FITNESS FOR A RHOMICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
